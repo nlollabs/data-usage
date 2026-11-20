@@ -1,0 +1,5 @@
+# build output (publish the exe through GitHub Releases instead)
+/DataUsage.exe
+/release/
+*.pdb
+
